@@ -88,7 +88,7 @@
 
 2. **Раздел Monitoring > Lates data:**
 
-![latest data](screenshots/latestdata.png)
+![latest date](screenshots/latestdate.png)
 
 3. **Установка репозиторий Zabbix:**
 
